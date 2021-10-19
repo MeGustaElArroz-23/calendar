@@ -1,0 +1,5 @@
+-Implement date format DD/MM/YYYY or DD/MM/YY
+-Add commands to view all events
+-Add commands to view past events
+-Add a command to view events between two dates
+-Add a commant to delete events
